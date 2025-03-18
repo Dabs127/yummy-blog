@@ -3,7 +3,7 @@
 Yummy Blog es un blog de recetas desarrollado con Nuxt 3. Permite publicar y gestionar posts, además de contar con un sistema de suscripción por correo.  
 
 ## 📸 Capturas de pantalla  
-![Vista principal](https://link-a-tu-imagen.com)  
+![Vista principal](assets/screenshots/home.png)  
 
 ## 🚀 Tecnologías utilizadas  
 - 🟢 Nuxt 3  
