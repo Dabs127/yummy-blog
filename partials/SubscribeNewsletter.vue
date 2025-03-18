@@ -1,5 +1,4 @@
 <script setup>
-import Toast from 'primevue/toast'
 const formData = reactive({
   email: "",
 });

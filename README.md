@@ -1,75 +1,33 @@
-# Nuxt Minimal Starter
+# 🍽️ Yummy Blog - Un blog de recetas con Nuxt  
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Yummy Blog es un blog de recetas desarrollado con Nuxt 3. Permite publicar y gestionar posts, además de contar con un sistema de suscripción por correo.  
 
-## Setup
+## 📸 Capturas de pantalla  
+![Vista principal](https://link-a-tu-imagen.com)  
 
-Make sure to install dependencies:
+## 🚀 Tecnologías utilizadas  
+- 🟢 Nuxt 3  
+- ⚛️ Vue.js  
+- 📦 TailwindCSS  
+- 🔥 Json-server library  
+- 📧 Resend  
 
-```bash
-# npm
-npm install
+## ⚙️ Instalación  
+1. Clona el repositorio  
+   ```sh
+   git clone https://github.com/tu-usuario/yummy-blog.git
 
-# pnpm
-pnpm install
+2. Entra al directorio  
+   cd yummy-blog
 
-# yarn
-yarn install
+3. Instala dependencias
+   npm install
 
-# bun
-bun install
-```
+4. Crea un archivo .env con tus credenciales  
+   cp .env.example .env
 
-## Development Server
+5. Inicia el servidor
+   npm run server
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+6. Inicia el front-end 
+   npm run dev
